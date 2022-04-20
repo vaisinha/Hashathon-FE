@@ -1,0 +1,106 @@
+.blank{
+  width: 4em;
+  height: 2.7em;
+  padding: .5em .7em;
+  margin:.2em;
+  background-color: rgba(242,242,242);
+}
+.cardd {
+  display: flex;
+  gap: 0.5em;
+  box-shadow: 0 0.2px 9px 3px #d7d7d7;
+  background-color: white;
+  width: 48em;
+  height: 60px;
+  margin-top: 0.5em;
+  margin-left: 28em;
+top: 297px;
+  margin-bottom: 0.5em;
+  padding: 0.3em;
+}
+.ticket{
+  margin-left: 4em;
+  margin-top: -1.2em;
+  font-size:x-large;
+}
+.LinkerName{
+  margin-left: 14em;
+  margin-top: -1.5em;
+  font-size:x-large;
+}
+.material{
+  margin-top: 2em;;
+}
+.react1{
+  position: absolute;
+  width: 90px;
+  height: 35px;
+background: orange;
+border-radius: 4px;
+  border: none;
+  padding: 0 1em;
+  text-align: center;
+
+  color: black;
+  margin-left: 35em;
+  margin-top: -2em;
+  font-weight: 600;
+
+}
+.cardblock{
+  margin-top: -19em;
+  margin-left: -5em;
+
+}
+.total{
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  box-shadow: 0 0.2px 9px 3px rgb(215 215 215);
+  margin-left: 2em;
+  margin-top: 8em;
+  text-align: left;
+}
+.f{
+width: 9em;
+border: black;
+}
+.check-text{
+  margin-top: -1.8em;
+    padding-left: 1.5em;
+    color: white;
+    background: orange;
+border-radius: 4px;
+  border: none;
+  padding: 0 1em;
+  text-align: center;
+  margin-left:-.5em;
+}
+.tick-text{
+  margin-top: -1.8em;
+    padding-left: 1.5em;
+    color: white;
+    background:orange;
+border-radius: 4px;
+  border: none;
+  padding: 0 1em;
+  margin-left: 1em;
+  text-align: center;
+  height: 2.3em;
+  width:17em;
+}
+.check{
+  margin-top: -1.2em;
+    padding-left: .7em;
+    margin-left: 1.8em;
+}
+.TicketNo{
+  margin-top: 2em;
+    padding-left: .7em;
+    margin-left: -.75em;
+    height: 3em;
+    width: 18em;
+}
+.total1{
+  text-align: center;
+}

@@ -1,0 +1,49 @@
+
+.top-content{
+    display: grid;
+    border-bottom: 1px solid black;
+    height: 13%;
+    grid-template-columns: 50% 50%;
+  }
+  
+  .track-name{
+    /* border: 2px solid yellow; */
+    font-size: 1.75rem;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    grid-column-start: 1;
+    grid-column-end:2 ;
+    font-family: 'Baloo Bhai 2', cursive;
+  }
+  
+  .date{
+    /* border: 2px solid red; */
+    /* font-size: 1.75rem; */
+    /* margin-top: 1rem; */
+    /* margin-left: 1rem; */
+    grid-column-start: 2;
+    grid-column-end:3 ;
+    padding-left: 56%;
+    padding-top: 1rem;
+    font-family: 'Baloo Bhai 2', cursive
+  }
+  
+  
+  
+  .view-button{
+    border: 1px solid rgb(197, 191, 191);
+    margin-top: 0.5rem;
+    margin-left: 1%;
+    width: 17rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    font-weight: 700;
+  }
+  
+  .view-button:hover{
+    background-color: rgb(100, 66, 4);
+  }
+  
